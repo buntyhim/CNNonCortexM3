@@ -2,10 +2,6 @@
 
 This project contains an STM32 application for executing a quantized Mobilenet v1 (`160x160x3`, alpha `0.25`) trained for Imangenet on a STM32H7 NUCLEO evaluation board.
 
-## Support and Contribution
-If you want to collaborate, contribute, or to rise *issues* and suggestions to this project you can use the [Issues](https://github.com/EEESlab/mobilenet_v1_stm32_cmsis_nn/issues) page or contact us:
-+ **Alessandro Capotondi**, *University of Bologna*, [email](mailto:alessandro.capotondi@unibo.it)
-+ **Manuele Rusci**, *University of Bologna*, [email](mailto:alessandro.capotondi@unibo.it)
 
 
 ## What is a Mobilenet?
